@@ -17,6 +17,7 @@ fun main() {
     println("data7: $data7")
 
     println("Test1: ${Test1()}, Test3 ${Test3()}, plus: ${10 + 20}")
+    UnitTest()
 }
 
 
